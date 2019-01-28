@@ -1,2 +1,1 @@
-# PythonDBG1
-Python dbger
+Small script for process ID discovering
